@@ -1,2 +1,3 @@
 # Project 
-This is my first freeCodeCamp project the I added to github. 
+Tribute Page about Nikola Tesla.
+Responsive Web Design Project from [freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
