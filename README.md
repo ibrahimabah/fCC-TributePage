@@ -8,4 +8,4 @@ Responsive Web Design Project from [freeCodeCamp](https://learn.freecodecamp.org
 I used the [FFC: Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx) to complete this project.
 
 # CodePen 
-You can find also find the project [here](https://codepen.io/b97code/pen/mdbwoGa)
+You can find also find the project on my [codepen](https://codepen.io/b97code/pen/mdbwoGa) account
