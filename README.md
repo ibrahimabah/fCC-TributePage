@@ -1,5 +1,6 @@
 # Project 
-Tribute Page about Nikola Tesla.
+
+Building A Tribute Page about subject I like, Role model I admire or anything in between.
 
 # From
 Responsive Web Design Project from [freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
