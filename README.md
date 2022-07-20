@@ -9,4 +9,4 @@ Project Specification | [Build a Tribute Page](https://learn.freecodecamp.org/re
 
 Project Reference | [freeCodeCamp Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
 
-Codepen Reference | You can find also find the project on [codepen](https://codepen.io/b97code/pen/mdbwoGa)
+Codepen Reference | [Codepen Tribute Page](https://codepen.io/b97code/pen/mdbwoGa)
