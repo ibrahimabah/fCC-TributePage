@@ -1,6 +1,6 @@
 # Project 
 
-Building A Tribute Page about subject I like, Role model I admire or anything in between.
+Building A Tribute Page about subject I like, Role model I admire or anything in between
 
 #### Links
 
