@@ -1,12 +1,18 @@
-# Project 
+# freeCodeCamp Tribute Page
 
-Building A Tribute Page about subject I like, Role model I admire or anything in between
+In This project, I have built a Tribute Page dedicated to one of my most inspirational people of all time. 
 
-#### Links
+He is an icon and, undoubtedly, you will agree with me that he, for sure, has made a difference to all of our lives.
 
-Project Specification | [Build a Tribute Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+Follow the [Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page) Guideline to bring your own icon to live. 
+
+Good Luck
 
 
-Project Reference | [freeCodeCamp Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
 
-Codepen Reference | [Codepen Tribute Page](https://codepen.io/b97code/pen/mdbwoGa)
+
+
+
+
+
+
